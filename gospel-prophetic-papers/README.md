@@ -5,6 +5,7 @@ Copied **21 September 2026** from the public archives on [barrandodger.com](http
 Git cannot receive a 443 MB binary pack through this GitHub connection (same limit that blocked re-uploading the government PDFs). The **PDF binaries** are on the release:
 
 - **Download ZIP (59 files, 444 MB):** [gospel-prophetic-papers-dated-2026-09-21.zip](https://github.com/wezzo72/pdf-archive/releases/download/gospel-prophetic-papers-2026-09-21/gospel-prophetic-papers-dated-2026-09-21.zip)
+- **Extra gospel files ZIP (5 files, 31 MB):** [extra-gospel-prophetic-dated-2026-09-21.zip](https://github.com/wezzo72/pdf-archive/releases/download/gospel-prophetic-papers-2026-09-21/extra-gospel-prophetic-dated-2026-09-21.zip)
 - Release: [gospel-prophetic-papers-2026-09-21](https://github.com/wezzo72/pdf-archive/releases/tag/gospel-prophetic-papers-2026-09-21)
 
 Every file is named `YYYY-MM-DD__original-name.pdf` using the PDF `/CreationDate`.

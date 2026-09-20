@@ -12,4 +12,6 @@ Filename: `YYYY-MM-DD__kind__slug.pdf` (date = sitemap lastmod).
 | page | 408 |
 | publication | 20 |
 
+Download all PDFs: [website-page-pdfs-2026-09-21.zip](website-page-pdfs-2026-09-21.zip)
+
 Full listing: [index.csv](index.csv)
