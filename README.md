@@ -1,24 +1,34 @@
 # pdf-archive
 
-Official Australian government documents published via [barrandodger.com](https://barrandodger.com/confidential-government-documents), indexed 21 September 2026.
+PDFs from [barrandodger.com](https://barrandodger.com), organised for [wezzo72](https://github.com/wezzo72). Indexed **21 September 2026**.
 
-## Where the PDF binaries already are
+## Folders
 
-The official government PDF files are **already on GitHub** in your connected account:
+| Folder | What | Count | Binaries |
+|---|---|---:|---|
+| [gospel-prophetic-papers/](gospel-prophetic-papers/) | Gospels, Eliven/Enliven Chain, prophetic papers | **59** unique (+ 5 extra) | [Release ZIP 444 MB](https://github.com/wezzo72/pdf-archive/releases/tag/gospel-prophetic-papers-2026-09-21) |
+| [website-page-pdfs/](website-page-pdfs/) | One PDF per public site page | **449** | In this folder |
+| [other-non-government/](other-non-government/) | Forensic papers, essays, other non-government PDFs | **203** substantial | [Release](https://github.com/wezzo72/pdf-archive/releases/tag/other-non-government-2026-09-21) |
+| [official-government-pdfs.md](official-government-pdfs.md) | Official government documents (already copied) | **186** | [Backup government-evidence](https://github.com/wezzo72/Backup/tree/main/client/public/documents/government-evidence) |
 
-- Folder: [wezzo72/Backup `client/public/documents/government-evidence`](https://github.com/wezzo72/Backup/tree/main/client/public/documents/government-evidence)
-- Public index: [Official government PDFs](https://wezzo72.github.io/Barrandodger/official-government-pdfs.html)
-- Bulk ZIP (251 MB, 200+ files): [barrandodger-government-documents-complete.zip](https://github.com/drbarrandodger/barran-dodger-archive/releases/download/zip-archives-2026-08-17/barrandodger-government-documents-complete.zip)
-  - SHA-256: `638393eb59c8cb3a581a66a6a1717b0b0eaa0d323c8568588f9634e7df7e7fb0`
+## Naming
 
-This repo does **not** duplicate those binaries. Re-uploading 186 PDFs (some 26–42 MB each) through the GitHub Contents API is blocked for the same reason already noted on the archive: binary PDF upload through the text GitHub API fails. Copying them again would also double a ~2 GB store.
+```text
+YYYY-MM-DD__original-filename.pdf
+```
 
-## What this repo adds
+The date is each PDF’s `/CreationDate` (when that file was created), not the download date. Website page PDFs use the sitemap lastmod.
 
-- `official-government-pdfs.md` — 186-file human-readable index with raw download links
-- `official-government-pdfs.csv` — same index as a spreadsheet
+## Totals this round
 
-## How to get every official file
+| Set | Copied | Skipped stubs |
+|---|---:|---:|
+| Gospel / prophetic (from the two public ZIPs) | 59 | 19 |
+| Extra gospel / prophetic (from Backup) | 5 | 8 |
+| Other non-government documents | 192 | — |
+| Other forensic analyses | 6 | 104 (mostly empty forensic placeholders) |
+| Website page PDFs | 449 | — |
+| **Total new files** | **711** | **131** |
+| Government (already done) | 186 | — |
 
-1. Download the 251 MB ZIP from the release link above, or
-2. Open the Backup folder and download individual raw PDFs from the index.
+Large document binaries are on **GitHub Releases**. A 90–440 MB git pack is dropped on this connection (`RPC failed / broken pipe`) — the same limit as when the government PDFs were indexed instead of re-uploaded.
