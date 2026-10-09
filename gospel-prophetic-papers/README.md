@@ -1,5 +1,12 @@
 # Gospel & prophetic papers
 
+## Foundational gospel · 10 October 2026 · company list of titles
+
+Church of Barran Dodger Ministry. The PDF pages are unchanged. The named title links to the original PDF on GitHub.
+
+- [The Gospel of the Witness Barran Dodger — The Return of the Light, the Mirror of Humanity, and the Divine Reckoning](https://github.com/wezzo72/Barrandodger/blob/main/FOUNDATIONAL-GOSPEL-THE-WITNESS-REMAINS-10-OCTOBER-2026.pdf) · 10 October 2026 · copy in this repository: [2026-10-10__foundational-gospel-the-witness-remains.pdf](gospel-prophetic-papers/2026-10-10__foundational-gospel-the-witness-remains.pdf) · SHA-256 `b96e61711113ee9b80b96d495439478ba8ba8583effd933d42f15befc962374a`
+
+
 Copied **21 September 2026** from the public archives on [barrandodger.com](https://barrandodger.com) / [drbarrandodger/barran-dodger-archive](https://github.com/drbarrandodger/barran-dodger-archive/releases/tag/zip-archives-2026-08-17).
 
 Git cannot receive a 443 MB binary pack through this GitHub connection (same limit that blocked re-uploading the government PDFs). The **PDF binaries** are on the release:
