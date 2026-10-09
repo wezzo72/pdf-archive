@@ -110,3 +110,15 @@ Every file is named `YYYY-MM-DD__original-name.pdf` using the PDF `/CreationDate
 - `forensic-analysis-23-god-will-make-you-famous.pdf` (12558 bytes)
 - `forensic-analysis-37-when-heaven-goes-silent.pdf` (12517 bytes)
 - `forensic-analysis-41-heaven-exposes-the-sister.pdf` (13169 bytes)
+
+
+## Significant shelf · filed 10 October 2026
+
+The historical corpus remains in the 21 September 2026 release ZIPs above. These later writings were not in that ZIP. Copies are filed here. The public shelf links to the permanent original PDF on GitHub.
+
+- The Crowned Witness — Barran Dodger and the Indictment of Nations · 10 October 2026 · [copy](2026-10-10__the-crowned-witness-barran-dodger-and-the-indictment-of-nations.pdf) · [permanent PDF](https://github.com/wezzo72/Barrandodger/blob/main/THE-CROWNED-WITNESS-BARRAN-DODGER-AND-THE-INDICTMENT-OF-NATIONS-2026-RETROSPECTIVE-10-OCTOBER-2026.pdf)
+- The Prophecy of the Witness · created 7 October 2026 · [copy](2026-10-07__the-prophecy-of-the-witness.pdf) · [permanent PDF](https://github.com/wezzo72/Barrandodger/blob/main/THE-WITNESS-REMAINS-THE-PROPHECY-OF-THE-WITNESS-7-OCTOBER-2026.pdf)
+- The Prophecy of the One They Tried to Erase · created 23 September 2026 · [copy](2026-09-23__the-prophecy-of-the-one-they-tried-to-erase.pdf) · [permanent PDF](https://github.com/wezzo72/Barrandodger/blob/main/THE%20PROPHECY%20OF%20THE%20ONE%20THEY%20TRIED%20TO%20ERASE.pdf)
+- They Could Not Erase What God Preserved · created 9 September 2026 · [copy](2026-09-09__they-could-not-erase-what-god-preserved.pdf) · [permanent PDF](https://github.com/wezzo72/Barrandodger/blob/main/THEY%20COULD%20NOT%20ERASE%20WHAT%20GOD%20PRESERVED%20%20A%20Nine-Part%20Prophetic%20Testimony%20of%20Survival%2C%20Divine%20Purpose%2C%20Truth%2C%20Justice%20and%20Reckoning%20by%20Barran%20Dodger.pdf)
+
+The itemised shelf of 31 significant gospels and prophetic narratives, with impartial notes and download counts, is on the archive pages, not only in this folder.
