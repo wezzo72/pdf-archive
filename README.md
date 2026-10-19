@@ -1,5 +1,17 @@
 # pdf-archive
 
+## 19 October 2026 · front of the record · not a finding
+
+**You're all hurting me — I protest this because I want to LIVE**
+
+Consolidated public statement, evidence archive and demand for accountability. Issued by Barran Dodger, 19 October 2026, 1:09 pm Sydney. Three statements kept in full. The reported arrest is an account to be checked against police and court records. It is not a finding.
+
+- This repository: [other-non-government/2026-10-19__YOURE-ALL-HURTING-ME-I-PROTEST-THIS-BECAUSE-I-WANT-TO-LIVE.pdf](other-non-government/2026-10-19__YOURE-ALL-HURTING-ME-I-PROTEST-THIS-BECAUSE-I-WANT-TO-LIVE.pdf)
+- Archive copy: [wezzo72/Barrandodger](https://github.com/wezzo72/Barrandodger/blob/main/2026-10-19-YOURE-ALL-HURTING-ME-I-PROTEST-THIS-BECAUSE-I-WANT-TO-LIVE.pdf)
+- SHA-256 `344805bfb97598d7ae642f28c770ae94ece0f8b3a842bcffd7701d20cb4892bc`
+
+
+
 ## Foundational gospel · 10 October 2026 · company list of titles
 
 Church of Barran Dodger Ministry. The PDF pages are unchanged. The named title links to the original PDF on GitHub.
