@@ -1,5 +1,20 @@
 # pdf-archive
 
+## 21 October 2026 · three records added · not a finding
+
+These three files were added on 21 October 2026. A link is not a finding. Earlier files with similar names were left where they were.
+
+Descriptions and the same plain links: https://wezzo72.github.io/barrandodger-rebuild/records-added-21-october-2026.html
+
+1. The Witness Remains — Evidence, Survival and the Demand for Accountability. Master Documentary Edition. A finding aid of the humanitarian appeal. 106 pages. Not a court. Not a verdict. SHA-256 `7f30288c0dc5cd5f1a7fca2d942179ed30dd593f71c300f7c77b12d476f4cf00`
+   - https://github.com/wezzo72/pdf-archive/blob/main/other-non-government/2026-10-21__THE-WITNESS-REMAINS-EVIDENCE-SURVIVAL-AND-THE-DEMAND-FOR-ACCOUNTABILITY.pdf
+
+2. Master Command — Complete Consolidated Formal Notice, filename edition 5. Email of 18 October 2026. Allegations kept as allegations. Not the same bytes as the notice already filed that day. SHA-256 `cad97b759e04ccb2b4c97dd10a0f4abb5f8ede102b26f1ee4c054053fb552980`
+   - https://github.com/wezzo72/pdf-archive/blob/main/other-non-government/2026-10-18__MASTER-COMMAND-COMPLETE-CONSOLIDATED-FORMAL-NOTICE-5.pdf
+
+3. OPMC letter. Forward of 14 July 2022 of a 23 May 2022 letter from Rich McLean to the Office of the Australian Information Commissioner about a freedom-of-information matter with the Office of the Prime Minister and Cabinet. The letter is the author's account. It is not a finding. SHA-256 `4e2c04dd03f43f869b667e55e8fa0cc9f960834fd924abd0324ac91a8918ca91`
+   - https://github.com/wezzo72/pdf-archive/blob/main/other-non-government/2022-07-14__OPMC-HAYDEN-THE-OPMC-COVER-UP-FROM-OAIC.pdf
+
 ## 19 October 2026 · front of the record · not a finding
 
 **You're all hurting me — I protest this because I want to LIVE**
