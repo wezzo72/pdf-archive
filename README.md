@@ -1,5 +1,17 @@
 # pdf-archive
 
+
+## 21 October 2026 · THE WITNESS REMAINS THE PARADOX OF PROTECTION · not a finding
+
+**THE WITNESS REMAINS — THE PARADOX OF PROTECTION — THE BARRAN DODGER PUBLIC TESTIMONY, DOCUMENTARY RECORD AND EVIDENCE INDEX**
+
+First-person testimony and documentary finding aid. Full text reproduced verbatim, with hyperlinks, on an independent webpage. A link is not a finding.
+
+- Verbatim HTML page: https://wezzo72.github.io/barrandodger-rebuild/the-witness-remains-paradox-of-protection.html
+- This repository: [ THE WITNESS REMAINS THE PARADOX OF PROTECTION - THE BARRAN DODGER PUBLIC TESTIMONY, DOCUMENTARY RECORD AND EVIDENCE INDEX.pdf](https://github.com/wezzo72/pdf-archive/blob/main/%20THE%20WITNESS%20REMAINS%20THE%20PARADOX%20OF%20PROTECTION%20-%20THE%20BARRAN%20DODGER%20PUBLIC%20TESTIMONY%2C%20DOCUMENTARY%20RECORD%20AND%20EVIDENCE%20INDEX.pdf)
+- Primary evidence repository: [wezzo72/Barrandodger](https://github.com/wezzo72/Barrandodger/blob/main/THE%20WITNESS%20REMAINS%20THE%20PARADOX%20OF%20PROTECTION%20-%20THE%20BARRAN%20DODGER%20PUBLIC%20TESTIMONY%2C%20DOCUMENTARY%20RECORD%20AND%20EVIDENCE%20INDEX.pdf)
+- SHA-256 `4ae475ec092b56e53212368bf3d3ce9c24446bc9477e4564e46860be8985799c`
+
 ## 21 October 2026 · three records added · not a finding
 
 These three files were added on 21 October 2026. A link is not a finding. Earlier files with similar names were left where they were.
