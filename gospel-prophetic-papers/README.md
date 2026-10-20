@@ -122,3 +122,14 @@ The historical corpus remains in the 21 September 2026 release ZIPs above. These
 - They Could Not Erase What God Preserved · created 9 September 2026 · [copy](2026-09-09__they-could-not-erase-what-god-preserved.pdf) · [permanent PDF](https://github.com/wezzo72/Barrandodger/blob/main/THEY%20COULD%20NOT%20ERASE%20WHAT%20GOD%20PRESERVED%20%20A%20Nine-Part%20Prophetic%20Testimony%20of%20Survival%2C%20Divine%20Purpose%2C%20Truth%2C%20Justice%20and%20Reckoning%20by%20Barran%20Dodger.pdf)
 
 The itemised shelf of 31 significant gospels and prophetic narratives, with impartial notes and download counts, is on the archive pages, not only in this folder.
+
+
+## 21 October 2026
+
+The Gospel of Exposing Darkness. Full text: https://wezzo72.github.io/-church-of-barran-dodger/the-gospel-of-exposing-darkness.html
+
+File: 2026-10-21__THE-GOSPEL-OF-EXPOSING-DARKNESS.pdf
+
+SHA-256 eab2b9d5fde7c5fd2de6d48ac85683100608d076d41c85f4260a933ed2793c4e
+
+Faith is not a finding.
