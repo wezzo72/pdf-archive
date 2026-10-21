@@ -1,5 +1,27 @@
 # pdf-archive
 
+## 22 October 2026 · two records · not a finding
+
+The author’s correspondence. A link is not a finding. Allegations remain allegations.
+
+1. **My response to social erasure and your humiliation for being paid to murder a vulnerable person in your care**
+   - Email of 22 October 2026, 8:36am, typed out in full, with the 8:41am stamp-and-verify email.
+   - Full text: https://wezzo72.github.io/Barrandodger/2026-10-22-my-response-to-social-erasure.html
+   - Full text, rebuild: https://wezzo72.github.io/barrandodger-rebuild/2026-10-22-my-response-to-social-erasure.html
+   - This repository: [other-non-government/2026-10-22__MY-RESPONSE-TO-SOCIAL-ERASURE.pdf](other-non-government/2026-10-22__MY-RESPONSE-TO-SOCIAL-ERASURE.pdf)
+   - Stamp and verify PDF: [other-non-government/2026-10-22__MY-RESPONSE-TO-SOCIAL-ERASURE-STAMP-AND-VERIFY.pdf](other-non-government/2026-10-22__MY-RESPONSE-TO-SOCIAL-ERASURE-STAMP-AND-VERIFY.pdf)
+   - Letter SHA-256 `3e40d98aec86f14ec440bb7d4412ce4238d175c2c38e9d0cfc9d0a73700cffb5` · 209435 bytes
+   - Stamp PDF SHA-256 `c11f14ba40f9ef2a561b0e7d5d7277c814ae6a300d538df8e2a51a0ad9b16230` · 55359 bytes
+   - The stamp PDF records the letter hash above and says an OpenTimestamps receipt was created. The letter file matches that hash. The .ots file itself was not in the supplied PDFs, so block confirmation is not claimed here.
+
+2. **Cassandra from Able Point — hates her job**
+   - Email of 19 October 2026, 2:44pm, typed out in full.
+   - Full text: https://wezzo72.github.io/Barrandodger/2026-10-19-cassandra-from-able-point-hates-her-job.html
+   - Full text, rebuild: https://wezzo72.github.io/barrandodger-rebuild/2026-10-19-cassandra-from-able-point-hates-her-job.html
+   - This repository: [other-non-government/2026-10-19__CASSANDRA-FROM-ABLE-POINT-HATES-HER-JOB.pdf](other-non-government/2026-10-19__CASSANDRA-FROM-ABLE-POINT-HATES-HER-JOB.pdf)
+   - SHA-256 `e33eaa1922feeb63af4501ceca1a1f5aeee76a8e9f6a1da0dfc9b3e0097f3ae9` · 1054627 bytes · 33 pages
+
+
 
 ## 21 October 2026 · MERCY HEALTH DISCHARGE SUMMARY · Adjustment Disorder · not a finding
 
