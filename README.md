@@ -1,6 +1,21 @@
 # pdf-archive
 
 
+## 21 October 2026 · MERCY HEALTH DISCHARGE SUMMARY · Adjustment Disorder · not a finding
+
+**Mercy Health / Mercy Mental Health Discharge Summary — Richard McLean (UR 2645287)**
+
+Consultant Psychiatrist: Dr Michael Lagrasso · Medical Officer: Dr Zixuan Wang · Dated 9 March 2021.
+
+Principal Diagnosis: **Adjustment Disorder**. Additional diagnoses listed: Schizophrenia; Cluster B personality traits. Records a suicide attempt via left cubital fossa laceration on 25/02/2021 requiring ICU admission. Notes that in the later period of the admission the patient denied further suicidal ideation, was future-focused and exhibited nil psychotic features. Discharged as voluntary patient.
+
+- Dedicated finding-aid page: https://wezzo72.github.io/barrandodger-rebuild/dr-michael-lagrasso-adjustment-disorder-discharge-summary-2021.html
+- SHA-256 `53a4f70cff3afa4b167528cb78978737c5ce78edf746b09d1a2e64686ef6b3b1`
+- Size: 1,818,766 bytes · 8 pages
+
+A clinical discharge summary is a medical record. A diagnosis is a clinical judgment at the time; it is not a court finding or a permanent verdict. A link is not a finding.
+
+
 ## 21 October 2026 · FORENSIC RESEARCH DOSSIER · primary-source patent analysis · not a finding
 
 **FORENSIC RESEARCH DOSSIER — Patented Technologies, Human Perception, Subliminal Influence, Neuromodulation, Radio-Frequency Auditory Effects, Military Research and the Scientific Evidence for Behavioural Influence**
@@ -49,9 +64,10 @@ Descriptions and the same plain links: https://wezzo72.github.io/barrandodger-re
 
 Consolidated public statement, evidence archive and demand for accountability. Issued by Barran Dodger, 19 October 2026, 1:09 pm Sydney. Three statements kept in full. The reported arrest is an account to be checked against police and court records. It is not a finding.
 
+- Dedicated finding-aid page: https://wezzo72.github.io/barrandodger-rebuild/youre-all-hurting-me-i-protest-this-because-i-want-to-live.html
 - This repository: [other-non-government/2026-10-19__YOURE-ALL-HURTING-ME-I-PROTEST-THIS-BECAUSE-I-WANT-TO-LIVE.pdf](other-non-government/2026-10-19__YOURE-ALL-HURTING-ME-I-PROTEST-THIS-BECAUSE-I-WANT-TO-LIVE.pdf)
 - Archive copy: [wezzo72/Barrandodger](https://github.com/wezzo72/Barrandodger/blob/main/2026-10-19-YOURE-ALL-HURTING-ME-I-PROTEST-THIS-BECAUSE-I-WANT-TO-LIVE.pdf)
-- SHA-256 `344805bfb97598d7ae642f28c770ae94ece0f8b3a842bcffd7701d20cb4892bc`
+- SHA-256 of this supplied copy: `849732dd1a7b670a614a6012d0157741308bbceeea61c523ae1045deaf215921` (earlier archive copy has a different hash; both may be retained)
 
 
 
