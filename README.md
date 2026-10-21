@@ -1,6 +1,22 @@
 # pdf-archive
 
 
+## 21 October 2026 · FORENSIC RESEARCH DOSSIER · primary-source patent analysis · not a finding
+
+**FORENSIC RESEARCH DOSSIER — Patented Technologies, Human Perception, Subliminal Influence, Neuromodulation, Radio-Frequency Auditory Effects, Military Research and the Scientific Evidence for Behavioural Influence**
+
+A staged, source-linked documentary investigation. Created and ordained with intentional commands by Barran Dodger.
+
+Primary-source examination of US patents (1950s–2000s) concerning hypnosis apparatus, subliminal audiovisual stimulation, sleep induction, electrotherapy, remote brain-wave proposals, silent subliminal systems, and radio-frequency hearing effect (including Air Force-assigned patents). Distinguishes patent claims from demonstrated experimental findings, institutional involvement, operational deployment, and causal attribution. References National Research Council subliminal research, Frey microwave auditory effect, MKULTRA records, and modern neuromodulation.
+
+- Dedicated finding-aid page: https://wezzo72.github.io/barrandodger-rebuild/forensic-research-dossier-patented-technologies.html
+- This repository: [FORENSIC RESEARCH DOSSIER - Patented Technologies, Human Perception….pdf](https://github.com/wezzo72/pdf-archive/blob/main/FORENSIC%20RESEARCH%20DOSSIER%20-%20Patented%20Technologies%2C%20Human%20Perception%E2%80%A6.pdf)
+- SHA-256 `0a8b12656516a7864a9a6babd4f270a446e0ce02229fca82c3d0a67cbc678b3f`
+- Size: 3,190,140 bytes · 163 pages
+
+A patent is a disclosure, not a demonstration of operational use. A link is not a finding.
+
+
 ## 21 October 2026 · THE WITNESS REMAINS THE PARADOX OF PROTECTION · not a finding
 
 **THE WITNESS REMAINS — THE PARADOX OF PROTECTION — THE BARRAN DODGER PUBLIC TESTIMONY, DOCUMENTARY RECORD AND EVIDENCE INDEX**
