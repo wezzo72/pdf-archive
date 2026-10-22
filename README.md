@@ -1,3 +1,19 @@
+# 23 October 2026 · Legal Brief
+
+**[LEGAL BRIEF of BARRAN DODGER / DR RICHARD WILLIAM MCLEAN — Fri 23rd October, 2026](https://github.com/wezzo72/Barrandodger/blob/main/2026-10-23-LEGAL-BRIEF-of-BARRAN-DODGER-DR-RICHARD-WILLIAM-MCLEAN.pdf)**
+
+Comprehensive legal status, access to justice, international human rights, institutional accountability and documentary evidence investigation.
+
+Finding aid. Not a court. Not a verdict. A link is not a finding.
+
+This repository: [other-non-government/2026-10-23__LEGAL-BRIEF-of-BARRAN-DODGER-DR-RICHARD-WILLIAM-MCLEAN.pdf](other-non-government/2026-10-23__LEGAL-BRIEF-of-BARRAN-DODGER-DR-RICHARD-WILLIAM-MCLEAN.pdf)
+
+Canonical GitHub file: https://github.com/wezzo72/Barrandodger/blob/main/2026-10-23-LEGAL-BRIEF-of-BARRAN-DODGER-DR-RICHARD-WILLIAM-MCLEAN.pdf
+
+SHA-256 `effa0bfe8894e4d9f98de8de8988a44ddef8ee95b1317a80d28d7cbd20fca8ff` · 982043 bytes
+
+---
+
 # pdf-archive
 
 ## 22 October 2026 · two records · not a finding
